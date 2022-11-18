@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "images/maggi.jpg",
+    image: "./Restraurant/images/maggi.jpg",
     name: "maggi",
     category: "breakfast",
     price: "12₹",
@@ -11,7 +11,7 @@ const Menu = [
 
   {
     id: 2,
-    image: "images/allupakoida.jpg",
+    image: "./Restraurant/images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
     price: "20₹",
@@ -20,7 +20,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "images/corn.jpg",
+    image: "./Restraurant/images/corn.jpg",
     name: "corn",
     category: "breakfast",
     price: "10₹",
@@ -29,7 +29,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/chola.jpg",
+    image: "../Restraurant/images/chola.jpg",
     name: "chola",
     category: "lunch",
     price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/pizza.jpg",
+    image: "../Restraurant/images/pizza.jpg",
     name: "pizza",
     category: "evening",
     price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/nonvegthali.jpg",
+    image: "../Restraurant/images/nonvegthali.jpg",
     name: "Non-Veg Thali",
     category: "dinner",
     price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
   },
   {
     id: 7,
-    image: "../images/sweet.jpg",
+    image: "../Restraurant/images/sweet.jpg",
     name: "Sweets",
     category: "dinner",
     price: "60₹",
@@ -65,7 +65,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "../images/rajmarice.jpg",
+    image: "../Restraurant/images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "lunch",
     price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/samosa.jpg",
+    image: "../Restraurant/images/samosa.jpg",
     name: "samaso",
     category: "evening",
     price: "10₹",

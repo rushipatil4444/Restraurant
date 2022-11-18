@@ -1,7 +1,7 @@
 const Menu = [
   
   {
-    id: 4,
+    id: 1,
     image: "../Restraurant/images/chola.jpg",
     name: "chola",
     category: "lunch",
@@ -10,7 +10,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 5,
+    id: 2,
     image: "../Restraurant/images/pizza.jpg",
     name: "pizza",
     category: "evening",
@@ -19,7 +19,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 6,
+    id: 3,
     image: "../Restraurant/images/nonvegthali.jpg",
     name: "Non-Veg Thali",
     category: "dinner",
@@ -28,7 +28,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 7,
+    id: 4,
     image: "../Restraurant/images/sweet.jpg",
     name: "Sweets",
     category: "dinner",
@@ -37,7 +37,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 8,
+    id: 5,
     image: "../Restraurant/images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "lunch",
@@ -46,7 +46,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 9,
+    id: 6,
     image: "../Restraurant/images/samosa.jpg",
     name: "samaso",
     category: "evening",
@@ -55,7 +55,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 1,
+    id: 7,
     image: "../Restraurant/images/maggi.jpg",
     name: "maggi",
     category: "breakfast",
@@ -65,7 +65,7 @@ const Menu = [
   },
 
   {
-    id: 2,
+    id: 8,
     image: "../Restraurant/images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
@@ -74,7 +74,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 3,
+    id: 9,
     image: "../Restraurant/images/corn.jpg",
     name: "corn",
     category: "breakfast",

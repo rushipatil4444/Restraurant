@@ -1,32 +1,5 @@
 const Menu = [
-  {
-    id: 1,
-    image: "../Restraurant/images/maggi.jpg",
-    name: "maggi",
-    category: "breakfast",
-    price: "12₹",
-    description:
-      "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-  },
-
-  {
-    id: 2,
-    image: "../Restraurant/images/allupakoida.jpg",
-    name: "allu pakoida",
-    category: "evening",
-    price: "20₹",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-  },
-  {
-    id: 3,
-    image: "../Restraurant/images/corn.jpg",
-    name: "corn",
-    category: "breakfast",
-    price: "10₹",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-  },
+  
   {
     id: 4,
     image: "../Restraurant/images/chola.jpg",
@@ -77,6 +50,34 @@ const Menu = [
     image: "../Restraurant/images/samosa.jpg",
     name: "samaso",
     category: "evening",
+    price: "10₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 1,
+    image: "../Restraurant/images/maggi.jpg",
+    name: "maggi",
+    category: "breakfast",
+    price: "12₹",
+    description:
+      "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+
+  {
+    id: 2,
+    image: "../Restraurant/images/allupakoida.jpg",
+    name: "allu pakoida",
+    category: "evening",
+    price: "20₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 3,
+    image: "../Restraurant/images/corn.jpg",
+    name: "corn",
+    category: "breakfast",
     price: "10₹",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
